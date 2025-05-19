@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rakebul Hasan Mehedi</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
+<img align="right" alt="coding" width="400" src="https://i.ibb.co/r2Pqybpb/junior-web-development.png">
 
 # 💫 About Me:
 <br><br>## 🌱 I’m Exploring<br><br>I’m currently diving into web development, focusing on:<br>- **HTML & CSS**: Building the structure and style of web pages.<br>- **JavaScript**: Adding interactivity and dynamic content.<br>- **Front-End Frameworks**: Exploring React,  Vue.js.<br><br>## 👯 I’m Looking To Collaborate On<br><br>I’m excited to work on:<br>- Open-source projects related to web development.<br><br><br>## 🤔 I’m Trying To Improve<br><br>I’m constantly looking to enhance my skills in:<br>- **Back-End Development**: Learning server-side technologies like Node.js and databases like  MongoDB.<br><br>## 
